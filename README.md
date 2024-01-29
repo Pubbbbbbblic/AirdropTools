@@ -1,6 +1,8 @@
 # AirdropTools
 一个简单的脚本刷多个空投，支持mac、linux、windows系统，一键启动不会代码也可以刷。
 
+![image](https://github.com/Pubbbbbbblic/AirdropTools/assets/158009105/1e36f4c6-6d8c-4bd2-bbd1-9f8bdfc1baf5)
+
 ### v0.0.1
 | 功能      | 进程 |
 | ----------- | ----------- |
